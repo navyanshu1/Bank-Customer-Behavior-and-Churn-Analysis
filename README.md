@@ -31,4 +31,4 @@ This repository contains a project that showcases bank customer behavior and chu
 ### Steps
 1. Clone this repository:
    ```bash
-   git clone https://github.com/purna-chandrasekhar/Bank-Customer-Behavior-and-Churn-Analysis.git
+   git clone https://github.com/navyanshu1/Bank-Customer-Behavior-and-Churn-Analysis
